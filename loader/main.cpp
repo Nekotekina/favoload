@@ -17,6 +17,7 @@ int main(int argc, wchar_t* argv[])
 			L"Hikari.exe",
 			L"WhiteEternity.exe",
 			L"Shinku.exe",
+			L"AstralAirFinale.exe",
 		};
 
 		for (const wchar_t* entry : exe_list)

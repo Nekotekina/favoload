@@ -13,3 +13,4 @@ Put `loader.exe` and `payload.dll` into the game's directory, run `loader.exe`. 
 * いろとりどりのヒカリ (Irotoridori no Hikari)
 * アストラエアの白き永遠 (AstralAir no Shiroki Towa)
 * 紅い瞳に映るセカイ (Akai Hitomi ni Utsuru Sekai)
+* アストラエアの白き永遠Finale-白き星の夢- (AstralAir no Shiroki Towa Finale -Shiroki Hoshi no Yume-)
