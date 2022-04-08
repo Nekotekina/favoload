@@ -18,6 +18,9 @@ int main(int argc, wchar_t* argv[])
 			L"WhiteEternity.exe",
 			L"Shinku.exe",
 			L"AstralAirFinale.exe",
+			L"Hoshimemo_HD.exe",
+			L"HoshimemoEH_HD.exe",
+			L"Sakura.exe",
 		};
 
 		for (const wchar_t* entry : exe_list)
